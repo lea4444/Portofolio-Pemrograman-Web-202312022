@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toko Elektronik Cepat</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Toko Elektronik Cepat</h1>
+    <p id="waktu"></p>
+  </header>
+
+  <main>
+    <div class="container">
+      <!-- Slideshow Produk -->
+      <div id="display-produk">
+        <img id="gambar-produk" src="" alt="Produk">
+        <h3 id="nama-produk"></h3>
+        <p id="harga-produk"></p>
+        <button onclick="gantiGambar(-1)">Previous</button>
+        <button onclick="gantiGambar(1)">Next</button>
+      </div>
+
+      <!-- Daftar Produk -->
+      <ul id="daftar-produk"></ul>
+    </div>
+
+    <!-- Form Pemesanan -->
+    <div class="form-pemesanan">
+      <h2>Form Pemesanan</h2>
+      <input type="text" id="nama" placeholder="Nama Pemesan">
+      <input type="number" id="jumlah" placeholder="Jumlah Pesan">
+      <input type="text" id="kode" placeholder="Kode Promo (opsional)">
+      <button onclick="pesan()">Pesan Sekarang</button>
+    </div>
+
+    <!-- Output Struk -->
+    <div id="output"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
