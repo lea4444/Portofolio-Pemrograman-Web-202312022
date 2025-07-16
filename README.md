@@ -149,4 +149,4 @@ git push origin --delete tugas/modul-6
 
 ---
 
-📚 *Dokumentasi ini disusun sebagai panduan dalam pengerjaan tugas Portofolio Pemrograman Web 2023/2024.*
+📚 *Dokumentasi ini disusun sebagai panduan dalam pengerjaan tugas Portofolio Pemrograman Web 2024/2025.*
