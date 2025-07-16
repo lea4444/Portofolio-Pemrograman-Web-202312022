@@ -1,4 +1,3 @@
-
 # 📁 Proyek Portofolio Pemrograman Web
 
 Selamat datang di repository **Portofolio Pemrograman Web 202312022**.  
@@ -130,9 +129,9 @@ Ganti pesan commit dan nama branch sesuai modul yang sedang Anda kerjakan.
 Setiap modul dikerjakan di branch terpisah agar lebih terstruktur:
 
 - [📄 Modul 1–3: HTML, CSS, Bootstrap](https://github.com/lea4444/Portofolio-Pemrograman-Web-202312022/tree/tugas/modul-1-3)
-- [📄 Modul 4: JavaScript Dasar](https://github.com/lea4444/Portofolio-Pemrograman-Web-202312022/tree/tugas/modul-4)
-- [📄 Modul 5: Dasar PHP](https://github.com/lea4444/Portofolio-Pemrograman-Web-202312022/tree/tugas/modul-5)
-- [📄 Modul 6: CRUD PHP & MySQL](https://github.com/lea4444/Portofolio-Pemrograman-Web-202312022/tree/tugas/modul-6)
+- [📄 Modul 4: JavaScript Dasar](https://github.com/lea4444/Portofolio-Pemrograman-Web-202312022/tree/tugas/modul-4-javascript)
+- [📄 Modul 5: Dasar PHP](https://github.com/lea4444/Portofolio-Pemrograman-Web-202312022/tree/tugas/modul-5-dasarphp)
+- [📄 Modul 6: CRUD PHP & MySQL](https://github.com/lea4444/Portofolio-Pemrograman-Web-202312022/tree/tugas/modul-6-php-lanjutan)
 
 ---
 
@@ -150,5 +149,4 @@ git push origin --delete tugas/modul-6
 
 ---
 
-📚 *Dokumentasi ini disusun sebagai panduan dalam pengerjaan tugas Portofolio Pemrograman Web 2023/2024.*  
-
+📚 *Dokumentasi ini disusun sebagai panduan dalam pengerjaan tugas Portofolio Pemrograman Web 2023/2024.*
